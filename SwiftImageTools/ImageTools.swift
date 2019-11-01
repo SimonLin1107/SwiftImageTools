@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 open class ImageTools {
     public static func resizeImage(image: UIImage, height: CGFloat) -> UIImage? {
